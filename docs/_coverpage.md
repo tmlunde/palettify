@@ -1,12 +1,11 @@
-![logo](images/logo.png)
+![logo](https://github.com/tmlunde/palettify/blob/master/docs/images/logo.png)
 
-# palettify <small>1.0.3</small>
+# <small>preview</small>
 
-> An eye catching image effect plugin
+> Between Weather and Human Will
 
-- Configurable plugin to apply visual effects to images using their color palette 
-- Extendable and easily configurable
-- Brings its own effects to the party
+- World class weather insights
+- Optimize business processes 
+- Be safe
 
-[GitHub](https://github.com/dobromir-hristov/palettify)
-[Get Started](#intro)
+[Docs](#intro)

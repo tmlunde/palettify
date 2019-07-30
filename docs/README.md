@@ -1,17 +1,15 @@
 # Intro
 
-[![npm](https://img.shields.io/npm/v/palettify.svg)](https://www.npmjs.com/package/palettify)
-[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
+ioFloa aims to become the best weather powered ecosystem in the world. We imagine a collaborative digital ecosystem not only helping you to plan operations, but also optimize your business processes by bridging the gap between weather insights, real world operations, the world of information technology, data science, and computer aided desicion support. 
 
-**Palettify** is a small library with **ZERO** dependencies that lets you add really cool effects to your images.
+In ioFloa, you can pick any of the assets and get technical, or specific weather info for that location. You will receive a notification whenever action is required for a specific location or asset. Which information is distributed to who, is administered from a control center. 
 
-It scans the images you provide, extracts their color palette and applies the styles that you have specified. Palettify can apply both static styles (applies once when the scripts is run) and dynamic styles, applied on each interaction (hover, click, drag etc).
+You can invite colleagues to the tool via live sharing. You can integrate comments on top of a saved view of a map section and invite colleagues to collaborate. These colleagues would be able to access the shared view of the map and read and answer the comments that are displayed. 
 
-**Palettify** also provides a really simple way to use the all the generated colors and palettes, with simple {{moustache}} bindings e.g. `border: '2px solid {{rgb.0}}'` 0 meaning the first and primary color in the palette.
+You can also export images or pdfs of the map or even short clips to your desktop or send them to others. Perhaps you want to send out a specific view to multiple recipients. You could also add arrows or drawings on top of these images or even do animations where you zoom in and out on different regions of the map. And all of this would work on a desktop computer as well as on a tablet and a smartphone with under low bandwidth conditions. 
 
-**[CHANGELOG](https://github.com/dobromir-hristov/palettify/blob/master/CHANGELOG.md)**
 
-- [Installation](installation.md)
-- [Getting Started](started.md)
-- [Advanced](advanced.md)
-- [Cool Effects](effects.md)
+- [Terms and Conditions](terms.md)
+- [Service Level Agreement](sla.md)
+- [Privacy Policy](privacy.md)
+- [About the name](name.md)
