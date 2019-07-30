@@ -1,6 +1,4 @@
 - [Home](/)
-- Setup
-  - [Installation](installation.md)
-  - [Getting Started](started.md)
-  - [Advanced](advanced.md)
-  - [Cool Effects](effects.md)
+- Terms of Use
+  - [Terms of Use](terms.md)
+  - [Service Level Agreement](sla.md)
