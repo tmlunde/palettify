@@ -4,8 +4,6 @@
 
 # Between Weather and Human Will
 
-- World class weather insights
-- Optimize business processes 
 - Be safe
 
 [Docs](#intro)
