@@ -1,5 +1,5 @@
 <p>
-    <img src="images/logo.png" />
+    <img src="https://github.com/tmlunde/palettify/blob/master/docs/images/logo_small.png" />
 </p>
 
 # <small>preview</small>
