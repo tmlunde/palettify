@@ -1,4 +1,6 @@
-![logo](https://github.com/tmlunde/palettify/blob/master/docs/images/logo.png)
+<p>
+    <img src="images/logo.png" />
+</p>
 
 # <small>preview</small>
 
