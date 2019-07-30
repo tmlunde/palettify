@@ -2,7 +2,7 @@
 
 These IOFLOA Platform Terms of Use (the &quot;Platform Terms&quot;), together with your Order Form and any other terms or documents incorporated by reference herein, constitute a single, binding agreement (this &quot;Agreement&quot;) between you (&quot;you&quot; or &quot;Customer&quot;) and StormGeo AS., (&quot;we,&quot; &quot;us&quot;, &quot;StormGeo&quot; or &quot;IOFLOA&quot;).
 
-#1. Definitions.
+# 1. Definitions.
 
 a. &quot;API&quot; means an application program interface usable with an API key provided by StormGeo to you.
 
