@@ -7,7 +7,7 @@
 If you already are a registerd StormGeo Vortex user, go to the [sign up page](https://floa.io/signup), enter your old credentials, and follow the registration steps. To give you a modern digital experience with favourite views and custom settings, we are moving from company wide logins, to personal users.  When you have signed up and [login](https://floa.io/login) to **ioFloa**, you will see a map with your assets and the latest StormGeo wind forecast.
 
 <p>
-    <img src="images/signup.png" />
+    <img src="https://raw.githubusercontent.com/tmlunde/palettify/master/docs/images/signup.png" />
 </p>
 
 ## The timeline
@@ -20,7 +20,7 @@ The timeline has two different modes; *forecast* and *observation*. The *forecas
 ## Seleciting what to show
 
 <p>
-    <img src="images/layer.png" />
+    <img src="https://raw.githubusercontent.com/tmlunde/palettify/master/docs/images/layer.png" />
 </p>
 
 
@@ -34,5 +34,5 @@ At last, we have the Custom info menu. Here you will find any custom non-weather
 
 
 <p>
-    <img src="images/menu.png" />
+    <img src="https://raw.githubusercontent.com/tmlunde/palettify/master/docs/images/menu.png" />
 </p>
