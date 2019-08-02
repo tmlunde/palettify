@@ -1,27 +1,13 @@
-# Palettify
+# ioFloa docs
+
+<p>
+    <img src="https://raw.githubusercontent.com/tmlunde/palettify/master/docs/images/logo_small.png" />
+</p>
+
+Documentation for clients using or wanting to use the ioFloa platform.
 
 
-
-[![npm](https://img.shields.io/npm/v/palettify.svg)](https://www.npmjs.com/package/palettify)
-[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
-
-Configurable JavaScript plugin to extract image primary colors and apply cool effects to it.
+## Template 
+The initial project structure is a fork of [Palettify](http://dobromir-hristov.github.io/palettify/) which is based on docsify
 
 
-## Documentation and demos
-You can read the full [documentation with demos here](http://dobromir-hristov.github.io/palettify/)
-
-## Changelog
-Details changes for each release are documented in the [CHANGELOG.md](https://github.com/dobromir-hristov/palettify/blob/master/CHANGELOG.md).
-
-
-## Issues
-Please make sure to read the [Issue Reporting Checklist](https://github.com/dobromir-hristov/palettify/blob/master/CONTRIBUTING.md#issue-reporting-guidelines) before opening an issue. Issues not conforming to the guidelines may be closed immediately.
-
-
-## Contribution
-Please make sure to read the [Contributing Guide](https://github.com/dobromir-hristov/palettify/blob/master/CONTRIBUTING.md) before making a pull request.
-
-## License
-
-[MIT](http://opensource.org/licenses/MIT)
